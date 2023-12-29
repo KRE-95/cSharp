@@ -1,0 +1,14 @@
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudDetectionArrayAnalyzer/bin/Debug/net8.0/FraudDetectionArrayAnalyzer
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudDetectionArrayAnalyzer/bin/Debug/net8.0/FraudDetectionArrayAnalyzer.deps.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudDetectionArrayAnalyzer/bin/Debug/net8.0/FraudDetectionArrayAnalyzer.runtimeconfig.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudDetectionArrayAnalyzer/bin/Debug/net8.0/FraudDetectionArrayAnalyzer.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudDetectionArrayAnalyzer/bin/Debug/net8.0/FraudDetectionArrayAnalyzer.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudDetectionArrayAnalyzer/obj/Debug/net8.0/FraudDetectionArrayAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudDetectionArrayAnalyzer/obj/Debug/net8.0/FraudDetectionArrayAnalyzer.AssemblyInfoInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudDetectionArrayAnalyzer/obj/Debug/net8.0/FraudDetectionArrayAnalyzer.AssemblyInfo.cs
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudDetectionArrayAnalyzer/obj/Debug/net8.0/FraudDetectionArrayAnalyzer.csproj.CoreCompileInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudDetectionArrayAnalyzer/obj/Debug/net8.0/FraudDetectionArrayAnalyzer.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudDetectionArrayAnalyzer/obj/Debug/net8.0/refint/FraudDetectionArrayAnalyzer.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudDetectionArrayAnalyzer/obj/Debug/net8.0/FraudDetectionArrayAnalyzer.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudDetectionArrayAnalyzer/obj/Debug/net8.0/FraudDetectionArrayAnalyzer.genruntimeconfig.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudDetectionArrayAnalyzer/obj/Debug/net8.0/ref/FraudDetectionArrayAnalyzer.dll

@@ -1,0 +1,14 @@
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/InventoryForeachAnalyzer/obj/Debug/net8.0/InventoryForeachAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/InventoryForeachAnalyzer/obj/Debug/net8.0/InventoryForeachAnalyzer.AssemblyInfoInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/InventoryForeachAnalyzer/obj/Debug/net8.0/InventoryForeachAnalyzer.AssemblyInfo.cs
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/InventoryForeachAnalyzer/obj/Debug/net8.0/InventoryForeachAnalyzer.csproj.CoreCompileInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/InventoryForeachAnalyzer/bin/Debug/net8.0/InventoryForeachAnalyzer
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/InventoryForeachAnalyzer/bin/Debug/net8.0/InventoryForeachAnalyzer.deps.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/InventoryForeachAnalyzer/bin/Debug/net8.0/InventoryForeachAnalyzer.runtimeconfig.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/InventoryForeachAnalyzer/bin/Debug/net8.0/InventoryForeachAnalyzer.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/InventoryForeachAnalyzer/bin/Debug/net8.0/InventoryForeachAnalyzer.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/InventoryForeachAnalyzer/obj/Debug/net8.0/InventoryForeachAnalyzer.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/InventoryForeachAnalyzer/obj/Debug/net8.0/refint/InventoryForeachAnalyzer.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/InventoryForeachAnalyzer/obj/Debug/net8.0/InventoryForeachAnalyzer.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/InventoryForeachAnalyzer/obj/Debug/net8.0/InventoryForeachAnalyzer.genruntimeconfig.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/InventoryForeachAnalyzer/obj/Debug/net8.0/ref/InventoryForeachAnalyzer.dll

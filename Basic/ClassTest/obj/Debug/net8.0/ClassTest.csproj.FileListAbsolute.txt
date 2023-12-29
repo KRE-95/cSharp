@@ -1,0 +1,14 @@
+/Users/kainat/OS_#C/CsharpProjects/Basic/ClassTest/bin/Debug/net8.0/ClassTest
+/Users/kainat/OS_#C/CsharpProjects/Basic/ClassTest/bin/Debug/net8.0/ClassTest.deps.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/ClassTest/bin/Debug/net8.0/ClassTest.runtimeconfig.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/ClassTest/bin/Debug/net8.0/ClassTest.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/ClassTest/bin/Debug/net8.0/ClassTest.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/ClassTest/obj/Debug/net8.0/ClassTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kainat/OS_#C/CsharpProjects/Basic/ClassTest/obj/Debug/net8.0/ClassTest.AssemblyInfoInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/ClassTest/obj/Debug/net8.0/ClassTest.AssemblyInfo.cs
+/Users/kainat/OS_#C/CsharpProjects/Basic/ClassTest/obj/Debug/net8.0/ClassTest.csproj.CoreCompileInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/ClassTest/obj/Debug/net8.0/ClassTest.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/ClassTest/obj/Debug/net8.0/refint/ClassTest.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/ClassTest/obj/Debug/net8.0/ClassTest.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/ClassTest/obj/Debug/net8.0/ClassTest.genruntimeconfig.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/ClassTest/obj/Debug/net8.0/ref/ClassTest.dll

@@ -1,0 +1,14 @@
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudOrderChallenge/bin/Debug/net8.0/FraudOrderChallenge
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudOrderChallenge/bin/Debug/net8.0/FraudOrderChallenge.deps.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudOrderChallenge/bin/Debug/net8.0/FraudOrderChallenge.runtimeconfig.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudOrderChallenge/bin/Debug/net8.0/FraudOrderChallenge.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudOrderChallenge/bin/Debug/net8.0/FraudOrderChallenge.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudOrderChallenge/obj/Debug/net8.0/FraudOrderChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudOrderChallenge/obj/Debug/net8.0/FraudOrderChallenge.AssemblyInfoInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudOrderChallenge/obj/Debug/net8.0/FraudOrderChallenge.AssemblyInfo.cs
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudOrderChallenge/obj/Debug/net8.0/FraudOrderChallenge.csproj.CoreCompileInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudOrderChallenge/obj/Debug/net8.0/FraudOrderChallenge.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudOrderChallenge/obj/Debug/net8.0/refint/FraudOrderChallenge.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudOrderChallenge/obj/Debug/net8.0/FraudOrderChallenge.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudOrderChallenge/obj/Debug/net8.0/FraudOrderChallenge.genruntimeconfig.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/FraudOrderChallenge/obj/Debug/net8.0/ref/FraudOrderChallenge.dll

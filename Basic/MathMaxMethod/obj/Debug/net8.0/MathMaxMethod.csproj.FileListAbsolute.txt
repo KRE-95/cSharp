@@ -1,0 +1,14 @@
+/Users/kainat/OS_#C/CsharpProjects/Basic/MathMaxMethod/obj/Debug/net8.0/MathMaxMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kainat/OS_#C/CsharpProjects/Basic/MathMaxMethod/obj/Debug/net8.0/MathMaxMethod.AssemblyInfoInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/MathMaxMethod/obj/Debug/net8.0/MathMaxMethod.AssemblyInfo.cs
+/Users/kainat/OS_#C/CsharpProjects/Basic/MathMaxMethod/obj/Debug/net8.0/MathMaxMethod.csproj.CoreCompileInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/MathMaxMethod/bin/Debug/net8.0/MathMaxMethod
+/Users/kainat/OS_#C/CsharpProjects/Basic/MathMaxMethod/bin/Debug/net8.0/MathMaxMethod.deps.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/MathMaxMethod/bin/Debug/net8.0/MathMaxMethod.runtimeconfig.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/MathMaxMethod/bin/Debug/net8.0/MathMaxMethod.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/MathMaxMethod/bin/Debug/net8.0/MathMaxMethod.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/MathMaxMethod/obj/Debug/net8.0/MathMaxMethod.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/MathMaxMethod/obj/Debug/net8.0/refint/MathMaxMethod.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/MathMaxMethod/obj/Debug/net8.0/MathMaxMethod.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/MathMaxMethod/obj/Debug/net8.0/MathMaxMethod.genruntimeconfig.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/MathMaxMethod/obj/Debug/net8.0/ref/MathMaxMethod.dll
