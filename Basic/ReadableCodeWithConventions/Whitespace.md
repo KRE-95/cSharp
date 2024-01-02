@@ -52,7 +52,6 @@
 ### Example Rolling Dice code:
 
 #### Without whitespace - notice no space 
-
 ![Without whitespace](./image/withoutWhiteSpace.PNG)
 
 #### Whitespace - between lines (red):
