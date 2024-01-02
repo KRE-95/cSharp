@@ -15,7 +15,7 @@
 ## High-Quality Commenting
 
 ### Block Comment "/* */" - A comment that explains the higher-level purpose of your code:
-![High-quality block comment](./image/HighQuality.PNG)
+![High-quality block comment](./image/highQuality.PNG)
 
 # Code Commenting Best Practices
 
