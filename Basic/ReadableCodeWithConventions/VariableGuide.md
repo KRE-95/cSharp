@@ -9,6 +9,17 @@
 ![Conventions](./image/convention.PNG)
 
 
+## Other 
+
+| Construct Type   | Naming Conventions                                      |
+| ---------------- | --------------------------------------------------------|
+| Local Variables  | Follow rules for methods or console apps.               |
+| Classes          | - Use meaningful names for classes.                     |
+|                  | - Fields store values or state.                         |
+|                  | - Use accessibility modifiers (private/public).         |
+|                  | - Private members only in the same class.               |
+|                  | - Public members accessible outside the class.          |
+
 
 
 

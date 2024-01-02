@@ -1,8 +1,0 @@
-**Variable Name Conventions**
-
-Convention             | Description
------------------------|---------------------------------------------------------------
-Camel Case             | Use camel case for variable names (e.g., `string thisIsCamelCase;`).
-Descriptive and Meaningful | Choose names reflecting the variable's purpose (e.g., `bool orderComplete;`, NOT `bool isComplete;`).
-Whole Words            | Use entire words for clarity in variable names (e.g., `decimal orderAmount;`, NOT `decimal odrAmt;`).
-Avoid Data Type in Name | Exclude data type from variable names (e.g., use `string firstName;`, NOT `string strMyValue;`).
