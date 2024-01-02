@@ -1,0 +1,14 @@
+/Users/kainat/OS_#C/CsharpProjects/Basic/SubscriptionRenewalEnhancement/obj/Debug/net8.0/SubscriptionRenewalEnhancement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kainat/OS_#C/CsharpProjects/Basic/SubscriptionRenewalEnhancement/obj/Debug/net8.0/SubscriptionRenewalEnhancement.AssemblyInfoInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/SubscriptionRenewalEnhancement/obj/Debug/net8.0/SubscriptionRenewalEnhancement.AssemblyInfo.cs
+/Users/kainat/OS_#C/CsharpProjects/Basic/SubscriptionRenewalEnhancement/obj/Debug/net8.0/SubscriptionRenewalEnhancement.csproj.CoreCompileInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/SubscriptionRenewalEnhancement/bin/Debug/net8.0/SubscriptionRenewalEnhancement
+/Users/kainat/OS_#C/CsharpProjects/Basic/SubscriptionRenewalEnhancement/bin/Debug/net8.0/SubscriptionRenewalEnhancement.deps.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/SubscriptionRenewalEnhancement/bin/Debug/net8.0/SubscriptionRenewalEnhancement.runtimeconfig.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/SubscriptionRenewalEnhancement/bin/Debug/net8.0/SubscriptionRenewalEnhancement.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/SubscriptionRenewalEnhancement/bin/Debug/net8.0/SubscriptionRenewalEnhancement.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/SubscriptionRenewalEnhancement/obj/Debug/net8.0/SubscriptionRenewalEnhancement.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/SubscriptionRenewalEnhancement/obj/Debug/net8.0/refint/SubscriptionRenewalEnhancement.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/SubscriptionRenewalEnhancement/obj/Debug/net8.0/SubscriptionRenewalEnhancement.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/SubscriptionRenewalEnhancement/obj/Debug/net8.0/SubscriptionRenewalEnhancement.genruntimeconfig.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/SubscriptionRenewalEnhancement/obj/Debug/net8.0/ref/SubscriptionRenewalEnhancement.dll

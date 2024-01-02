@@ -1,0 +1,14 @@
+/Users/kainat/OS_#C/CsharpProjects/Basic/RollingDiceChallenge/bin/Debug/net8.0/RollingDiceChallenge
+/Users/kainat/OS_#C/CsharpProjects/Basic/RollingDiceChallenge/bin/Debug/net8.0/RollingDiceChallenge.deps.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/RollingDiceChallenge/bin/Debug/net8.0/RollingDiceChallenge.runtimeconfig.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/RollingDiceChallenge/bin/Debug/net8.0/RollingDiceChallenge.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/RollingDiceChallenge/bin/Debug/net8.0/RollingDiceChallenge.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/RollingDiceChallenge/obj/Debug/net8.0/RollingDiceChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kainat/OS_#C/CsharpProjects/Basic/RollingDiceChallenge/obj/Debug/net8.0/RollingDiceChallenge.AssemblyInfoInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/RollingDiceChallenge/obj/Debug/net8.0/RollingDiceChallenge.AssemblyInfo.cs
+/Users/kainat/OS_#C/CsharpProjects/Basic/RollingDiceChallenge/obj/Debug/net8.0/RollingDiceChallenge.csproj.CoreCompileInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/RollingDiceChallenge/obj/Debug/net8.0/RollingDiceChallenge.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/RollingDiceChallenge/obj/Debug/net8.0/refint/RollingDiceChallenge.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/RollingDiceChallenge/obj/Debug/net8.0/RollingDiceChallenge.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/RollingDiceChallenge/obj/Debug/net8.0/RollingDiceChallenge.genruntimeconfig.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/RollingDiceChallenge/obj/Debug/net8.0/ref/RollingDiceChallenge.dll

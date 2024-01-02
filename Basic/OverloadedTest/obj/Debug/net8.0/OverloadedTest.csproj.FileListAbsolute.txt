@@ -1,0 +1,14 @@
+/Users/kainat/OS_#C/CsharpProjects/Basic/OverloadedTest/obj/Debug/net8.0/OverloadedTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kainat/OS_#C/CsharpProjects/Basic/OverloadedTest/obj/Debug/net8.0/OverloadedTest.AssemblyInfoInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/OverloadedTest/obj/Debug/net8.0/OverloadedTest.AssemblyInfo.cs
+/Users/kainat/OS_#C/CsharpProjects/Basic/OverloadedTest/obj/Debug/net8.0/OverloadedTest.csproj.CoreCompileInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/OverloadedTest/bin/Debug/net8.0/OverloadedTest
+/Users/kainat/OS_#C/CsharpProjects/Basic/OverloadedTest/bin/Debug/net8.0/OverloadedTest.deps.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/OverloadedTest/bin/Debug/net8.0/OverloadedTest.runtimeconfig.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/OverloadedTest/bin/Debug/net8.0/OverloadedTest.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/OverloadedTest/bin/Debug/net8.0/OverloadedTest.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/OverloadedTest/obj/Debug/net8.0/OverloadedTest.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/OverloadedTest/obj/Debug/net8.0/refint/OverloadedTest.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/OverloadedTest/obj/Debug/net8.0/OverloadedTest.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/OverloadedTest/obj/Debug/net8.0/OverloadedTest.genruntimeconfig.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/OverloadedTest/obj/Debug/net8.0/ref/OverloadedTest.dll
