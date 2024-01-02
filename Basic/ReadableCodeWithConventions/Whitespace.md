@@ -56,7 +56,7 @@
 ![Without whitespace](./image/withoutWhiteSpace.PNG)
 
 #### Whitespace - between lines (red):
-![Without whitespace](./image/whiteSpace.PNG)
+![With whitespace](./image/whiteSpace.PNG)
 
 ## Why Whitespace Rules Matter?
 
