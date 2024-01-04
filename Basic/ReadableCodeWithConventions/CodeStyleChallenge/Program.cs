@@ -6,9 +6,9 @@ char[] message = str.ToCharArray();  // same here
 Array.Reverse(charMessage);
 int x = 0;
 // count the o's
-foreach (char i in charMessage) { if (i == 'o') { x++; } }
+foreach (char i in message) { if (i == 'o') { x++; } }
 // convert it back to a string
-string new_message = new String(charMessage);
+string new_Message = new String(message); // same here variable name
 // print it out
-Console.WriteLine(new_message);
+Console.WriteLine(new_Message);
 Console.WriteLine($"'o' appears {x} times.");
