@@ -7,15 +7,15 @@ Array.Reverse(charMessage);
 
 int x = 0;
 
-foreach (char i in message) 
+foreach (char letter in message) 
 { 
-    if(i == 'o') 
+    if(letter == 'o') 
     {
-         x++; 
+         letterCount++; 
     } 
  }
 
 string new_Message = new String(message); 
 
 Console.WriteLine(new_Message);
-Console.WriteLine($"'o' appears {x} times.");
+Console.WriteLine($"'o' appears {letterCount} times.");
