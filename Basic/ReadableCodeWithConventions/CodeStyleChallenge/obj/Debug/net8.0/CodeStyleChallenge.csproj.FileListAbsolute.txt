@@ -1,0 +1,15 @@
+/Users/kainat/OS_#C/CsharpProjects/Basic/ReadableCodeWithConventions/CodeStyleChallenge/bin/Debug/net8.0/CodeStyleChallenge
+/Users/kainat/OS_#C/CsharpProjects/Basic/ReadableCodeWithConventions/CodeStyleChallenge/bin/Debug/net8.0/CodeStyleChallenge.deps.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/ReadableCodeWithConventions/CodeStyleChallenge/bin/Debug/net8.0/CodeStyleChallenge.runtimeconfig.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/ReadableCodeWithConventions/CodeStyleChallenge/bin/Debug/net8.0/CodeStyleChallenge.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/ReadableCodeWithConventions/CodeStyleChallenge/bin/Debug/net8.0/CodeStyleChallenge.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/ReadableCodeWithConventions/CodeStyleChallenge/obj/Debug/net8.0/CodeStyleChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kainat/OS_#C/CsharpProjects/Basic/ReadableCodeWithConventions/CodeStyleChallenge/obj/Debug/net8.0/CodeStyleChallenge.AssemblyInfoInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/ReadableCodeWithConventions/CodeStyleChallenge/obj/Debug/net8.0/CodeStyleChallenge.AssemblyInfo.cs
+/Users/kainat/OS_#C/CsharpProjects/Basic/ReadableCodeWithConventions/CodeStyleChallenge/obj/Debug/net8.0/CodeStyleChallenge.csproj.CoreCompileInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/ReadableCodeWithConventions/CodeStyleChallenge/obj/Debug/net8.0/CodeStyleChallenge.sourcelink.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/ReadableCodeWithConventions/CodeStyleChallenge/obj/Debug/net8.0/CodeStyleChallenge.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/ReadableCodeWithConventions/CodeStyleChallenge/obj/Debug/net8.0/refint/CodeStyleChallenge.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/ReadableCodeWithConventions/CodeStyleChallenge/obj/Debug/net8.0/CodeStyleChallenge.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/ReadableCodeWithConventions/CodeStyleChallenge/obj/Debug/net8.0/CodeStyleChallenge.genruntimeconfig.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/ReadableCodeWithConventions/CodeStyleChallenge/obj/Debug/net8.0/ref/CodeStyleChallenge.dll

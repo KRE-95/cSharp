@@ -1,7 +1,7 @@
 ﻿// given code 
-string str = "The quick brown fox jumps over the lazy dog.";
+string originalMessage = "The quick brown fox jumps over the lazy dog."; // note variable name has to be changed
 // convert the message into a char array
-char[] charMessage = str.ToCharArray();
+char[] message = str.ToCharArray();  // same here 
 // Reverse the chars
 Array.Reverse(charMessage);
 int x = 0;
