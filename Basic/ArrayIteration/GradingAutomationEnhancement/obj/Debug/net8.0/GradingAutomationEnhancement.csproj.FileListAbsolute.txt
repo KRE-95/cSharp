@@ -1,0 +1,15 @@
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/GradingAutomationEnhancement/obj/Debug/net8.0/GradingAutomationEnhancement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/GradingAutomationEnhancement/obj/Debug/net8.0/GradingAutomationEnhancement.AssemblyInfoInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/GradingAutomationEnhancement/obj/Debug/net8.0/GradingAutomationEnhancement.AssemblyInfo.cs
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/GradingAutomationEnhancement/obj/Debug/net8.0/GradingAutomationEnhancement.csproj.CoreCompileInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/GradingAutomationEnhancement/obj/Debug/net8.0/GradingAutomationEnhancement.sourcelink.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/GradingAutomationEnhancement/bin/Debug/net8.0/GradingAutomationEnhancement
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/GradingAutomationEnhancement/bin/Debug/net8.0/GradingAutomationEnhancement.deps.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/GradingAutomationEnhancement/bin/Debug/net8.0/GradingAutomationEnhancement.runtimeconfig.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/GradingAutomationEnhancement/bin/Debug/net8.0/GradingAutomationEnhancement.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/GradingAutomationEnhancement/bin/Debug/net8.0/GradingAutomationEnhancement.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/GradingAutomationEnhancement/obj/Debug/net8.0/GradingAutomationEnhancement.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/GradingAutomationEnhancement/obj/Debug/net8.0/refint/GradingAutomationEnhancement.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/GradingAutomationEnhancement/obj/Debug/net8.0/GradingAutomationEnhancement.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/GradingAutomationEnhancement/obj/Debug/net8.0/GradingAutomationEnhancement.genruntimeconfig.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/ArrayIteration/GradingAutomationEnhancement/obj/Debug/net8.0/ref/GradingAutomationEnhancement.dll
