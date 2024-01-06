@@ -1,0 +1,15 @@
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/GradeCalculator/bin/Debug/net8.0/GradeCalculator
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/GradeCalculator/bin/Debug/net8.0/GradeCalculator.deps.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/GradeCalculator/bin/Debug/net8.0/GradeCalculator.runtimeconfig.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/GradeCalculator/bin/Debug/net8.0/GradeCalculator.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/GradeCalculator/bin/Debug/net8.0/GradeCalculator.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/GradeCalculator/obj/Debug/net8.0/GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/GradeCalculator/obj/Debug/net8.0/GradeCalculator.AssemblyInfoInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/GradeCalculator/obj/Debug/net8.0/GradeCalculator.AssemblyInfo.cs
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/GradeCalculator/obj/Debug/net8.0/GradeCalculator.csproj.CoreCompileInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/GradeCalculator/obj/Debug/net8.0/GradeCalculator.sourcelink.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/GradeCalculator/obj/Debug/net8.0/GradeCalculator.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/GradeCalculator/obj/Debug/net8.0/refint/GradeCalculator.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/GradeCalculator/obj/Debug/net8.0/GradeCalculator.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/GradeCalculator/obj/Debug/net8.0/GradeCalculator.genruntimeconfig.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/GradeCalculator/obj/Debug/net8.0/ref/GradeCalculator.dll

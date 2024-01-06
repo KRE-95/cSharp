@@ -1,0 +1,15 @@
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/FahrenheitToCelsiusConverter/bin/Debug/net8.0/FahrenheitToCelsiusConverter
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/FahrenheitToCelsiusConverter/bin/Debug/net8.0/FahrenheitToCelsiusConverter.deps.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/FahrenheitToCelsiusConverter/bin/Debug/net8.0/FahrenheitToCelsiusConverter.runtimeconfig.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/FahrenheitToCelsiusConverter/bin/Debug/net8.0/FahrenheitToCelsiusConverter.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/FahrenheitToCelsiusConverter/bin/Debug/net8.0/FahrenheitToCelsiusConverter.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/FahrenheitToCelsiusConverter/obj/Debug/net8.0/FahrenheitToCelsiusConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/FahrenheitToCelsiusConverter/obj/Debug/net8.0/FahrenheitToCelsiusConverter.AssemblyInfoInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/FahrenheitToCelsiusConverter/obj/Debug/net8.0/FahrenheitToCelsiusConverter.AssemblyInfo.cs
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/FahrenheitToCelsiusConverter/obj/Debug/net8.0/FahrenheitToCelsiusConverter.csproj.CoreCompileInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/FahrenheitToCelsiusConverter/obj/Debug/net8.0/FahrenheitToCelsiusConverter.sourcelink.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/FahrenheitToCelsiusConverter/obj/Debug/net8.0/FahrenheitToCelsiusConverter.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/FahrenheitToCelsiusConverter/obj/Debug/net8.0/refint/FahrenheitToCelsiusConverter.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/FahrenheitToCelsiusConverter/obj/Debug/net8.0/FahrenheitToCelsiusConverter.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/FahrenheitToCelsiusConverter/obj/Debug/net8.0/FahrenheitToCelsiusConverter.genruntimeconfig.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/Fundementals/FahrenheitToCelsiusConverter/obj/Debug/net8.0/ref/FahrenheitToCelsiusConverter.dll
