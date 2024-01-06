@@ -9,7 +9,7 @@
 ![Conventions](./image/convention.PNG)
 
 
-## Other 
+## Local variable
 
 | Construct Type   | Naming Conventions                                      |
 | ---------------- | --------------------------------------------------------|
