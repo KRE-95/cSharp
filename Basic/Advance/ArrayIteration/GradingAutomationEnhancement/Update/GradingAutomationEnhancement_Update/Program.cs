@@ -1,5 +1,5 @@
-﻿
-using System;
+﻿using System;
+
 // the number of exam assignment for each student 
 int examAssignments = 5;
 
@@ -15,17 +15,16 @@ int[] loganScores = new int[] { 90, 95, 87, 88, 96, 96 };
 // Array to store current student exam scores (assuming a student up to 10 exam scores)
 int[] studentScores = new int[10];
 
-
 string currentStudentLetterGrade = "";
 
 // display the header row for scores/grades changed to overall and grade - updated
 Console.Clear();
-Console.WriteLine("Student\t\tExam\tScore\t\tOverall\tGrade\t\tExtra\tCredit\n");
+Console.WriteLine("Student\t\tExam Score\tOverall Grade\tExtra Credit\n");
 
-/* Foreach Statement Usage - outer:
+/* The outer foreach loop is used to:
 - iterate through student names 
 - assign a student's grades to the studentScores array
-- sum assignment scores (inner foreach loop)
+- calculate exam and extra credit sums (inner foreach loop)
 - calculate numeric and letter grade
 - write the score report information
 */
@@ -36,41 +35,53 @@ foreach (string name in studentNames)
 
     if (currentStudent == "Sophia")
         studentScores = sophiaScores;
-
-    else if (currentStudent == "Andrew")   
-                studentScores = andrewScores;
-
-    else if (currentStudent == "Andrew")   
-                studentScores = andrewScores; 
-
-   else if (currentStudent == "Emma")
+    else if (currentStudent == "Andrew")
+        studentScores = andrewScores;
+    else if (currentStudent == "Emma")
         studentScores = emmaScores;
-
     else if (currentStudent == "Logan")
         studentScores = loganScores;
 
-   // Variables for calculating the average grade
-   int sumAssignmentScores = 0;
-   decimal currentStudentGrade = 0;
-   int gradedAssignments = 0;
+    // Variables to store the sum of exam scores and extra credit scores
+    int sumExamScores = 0;
+    int sumExtraCreditScores = 0;
 
-     /* The inner foreach loop sums assignment scores.
-     Extra credit assignments are worth 10% of an exam score.
+    // Variables to keep track of graded assignments and extra credit assignments
+    int gradedAssignments = 0;
+    int gradedExtraCreditAssignments = 0;
+
+    // Variables to store the current student's final grade, exam score, and extra credit score
+    decimal currentStudentGrade = 0;
+    decimal currentStudentExamScore = 0;
+    decimal currentStudentExtraCreditScore = 0;
+
+    /* the inner foreach loop: 
+    - sums the exam and extra credit scores
+    - counts the extra credit assignments
     */
     foreach (int score in studentScores)
     {
         gradedAssignments += 1;
 
-        // check if the assignment is extra credit
-        if ( gradedAssignments <= examAssignments)
-            sumAssignmentScores += score;
+        // Check if the assignment is a regular exam or an extra credit assignment
+        if (gradedAssignments <= examAssignments)
+        {
+            // Regular exam assignment
+            sumExamScores = sumExamScores + score;
+        }
         else
-        sumAssignmentScores += score / 10; // Apply 10% weight for extra credit
-   
+        {
+            // Extra credit assignment
+            gradedExtraCreditAssignments += 1;
+            sumExtraCreditScores += score;
+        }
     }
 
-    // calculate the average grade
-    currentStudentGrade = (decimal)(sumAssignmentScores) / examAssignments;
+    // Calculate average exam score, extra credit score, and overall grade using decimals for precision
+    currentStudentExamScore = (decimal)(sumExamScores) / examAssignments;
+    currentStudentExtraCreditScore = (decimal)(sumExtraCreditScores) / gradedExtraCreditAssignments;
+
+    currentStudentGrade = (decimal)((decimal)sumExamScores + ((decimal)sumExtraCreditScores / 10)) / examAssignments;
 
     // Determine the letter grade based on the numeric grade.
     if (currentStudentGrade >= 97)
@@ -100,11 +111,10 @@ foreach (string name in studentNames)
     else
         currentStudentLetterGrade = "F";
 
-    
     // Display the updated information - format
-    Console.WriteLine($"{currentStudent}\t\t0\t \t\t{currentStudentGrade}\t{currentStudentLetterGrade}\t\t0\t(0 pts)");
-
+    Console.WriteLine($"{currentStudent}\t\t{currentStudentExamScore}\t\t{currentStudentGrade}\t{currentStudentLetterGrade}\t{currentStudentExtraCreditScore} ({(((decimal)sumExtraCreditScores / 10) / examAssignments)} pts)");
 }
+
 // Required for running in VS Code (keeps the Output window open to view results)
 Console.WriteLine("Press the Enter key to continue");
 Console.ReadLine();
