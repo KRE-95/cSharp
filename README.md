@@ -8,7 +8,7 @@ This repository organizes C# projects into folders, each focusing on specific co
 ### 1. Basic
    - **Overview:** The parent folder containing fundamental projects to get started with C# programming.
 
-### 2. Advance
+### 2. Intermediate
    - **Overview:** Contains projects focusing on advanced concepts in C# programming.
      - **Key Learnings:**
        - Utilize functionality in the .NET Class Library by calling methods that return values and accept input parameters.
