@@ -1,0 +1,15 @@
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/CoinFlip/bin/Debug/net8.0/CoinFlip
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/CoinFlip/bin/Debug/net8.0/CoinFlip.deps.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/CoinFlip/bin/Debug/net8.0/CoinFlip.runtimeconfig.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/CoinFlip/bin/Debug/net8.0/CoinFlip.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/CoinFlip/bin/Debug/net8.0/CoinFlip.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/CoinFlip/obj/Debug/net8.0/CoinFlip.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/CoinFlip/obj/Debug/net8.0/CoinFlip.AssemblyInfoInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/CoinFlip/obj/Debug/net8.0/CoinFlip.AssemblyInfo.cs
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/CoinFlip/obj/Debug/net8.0/CoinFlip.csproj.CoreCompileInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/CoinFlip/obj/Debug/net8.0/CoinFlip.sourcelink.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/CoinFlip/obj/Debug/net8.0/CoinFlip.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/CoinFlip/obj/Debug/net8.0/refint/CoinFlip.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/CoinFlip/obj/Debug/net8.0/CoinFlip.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/CoinFlip/obj/Debug/net8.0/CoinFlip.genruntimeconfig.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/CoinFlip/obj/Debug/net8.0/ref/CoinFlip.dll
