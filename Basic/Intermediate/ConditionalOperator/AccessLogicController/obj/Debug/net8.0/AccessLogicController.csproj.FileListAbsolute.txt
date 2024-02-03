@@ -1,0 +1,15 @@
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/AccessLogicController/bin/Debug/net8.0/AccessLogicController
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/AccessLogicController/bin/Debug/net8.0/AccessLogicController.deps.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/AccessLogicController/bin/Debug/net8.0/AccessLogicController.runtimeconfig.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/AccessLogicController/bin/Debug/net8.0/AccessLogicController.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/AccessLogicController/bin/Debug/net8.0/AccessLogicController.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/AccessLogicController/obj/Debug/net8.0/AccessLogicController.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/AccessLogicController/obj/Debug/net8.0/AccessLogicController.AssemblyInfoInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/AccessLogicController/obj/Debug/net8.0/AccessLogicController.AssemblyInfo.cs
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/AccessLogicController/obj/Debug/net8.0/AccessLogicController.csproj.CoreCompileInputs.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/AccessLogicController/obj/Debug/net8.0/AccessLogicController.sourcelink.json
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/AccessLogicController/obj/Debug/net8.0/AccessLogicController.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/AccessLogicController/obj/Debug/net8.0/refint/AccessLogicController.dll
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/AccessLogicController/obj/Debug/net8.0/AccessLogicController.pdb
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/AccessLogicController/obj/Debug/net8.0/AccessLogicController.genruntimeconfig.cache
+/Users/kainat/OS_#C/CsharpProjects/Basic/Intermediate/ConditionalOperator/AccessLogicController/obj/Debug/net8.0/ref/AccessLogicController.dll
